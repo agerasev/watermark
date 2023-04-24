@@ -1,0 +1,7 @@
+/photos
+/input
+/output
+*.json
+*.png
+.ipynb_checkpoints
+
