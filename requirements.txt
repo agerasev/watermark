@@ -1,3 +1,5 @@
 jupyterlab
 numpy
 pillow
+scipy
+scikit-image
